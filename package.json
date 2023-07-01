@@ -1,0 +1,17 @@
+{
+  "name": "wabot",
+  "version": "1.0.0",
+  "description": "For Learning Program Wa Bot @Ahza",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wabot"
+  ],
+  "author": "Ahza Yulistian",
+  "license": "MIT",
+  "dependencies": {
+    "@open-wa/wa-automate": "^4.66.3"
+  }
+}
